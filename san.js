@@ -5,8 +5,8 @@ CREACOT : AkmalMods
 */
 
 const settings = {
-  token: '7198835261:AAHnzYX0J5atmiFHx2_avSqjOJTcVNx2gQQ',// Token Bot panel dan domain
-  adminId: '6450036617',
+  token: '7641276468:AAFrmwenHYrOMwVd11xb_wIbT-ur0Wfb3AM',// Token Bot panel dan domain
+  adminId: '7440627648',
   urladmin: 'https://t.me/Darkfamly',
   domain: '_', // Isi dengan domain yang digunakan
   plta: '_', // Isi dengan nilai plta yang sesuai
